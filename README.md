@@ -1,4 +1,4 @@
-### Hi 👋, I'm Maria paula Loaiza López, Software Developer.
+### Hi 👋, I'm Maria Paula Loaiza López, Software Developer.
 
 🎓 I’m finishing Computer engineering
 
