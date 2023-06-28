@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Maria Paula Loaiza López, Software Developer.
 
-🎓 I’m finishing Computer engineering
+🎓 I’m Computer engineering
 
 👩🏻‍💻 My main programming technologies are
 
